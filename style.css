@@ -1,0 +1,35 @@
+.logo {
+  height: 100px;
+}
+
+.sidebar {
+  float: left;
+  width: 9em;
+  padding: 3px 1.5em 10px 1.3em;
+  position: absolute;
+}
+
+.mainsection {
+  margin: 0 0 0 11em;
+}
+
+.article {
+  padding: 1.25em 1.5em 1.5em 1em;
+  border-left: 1px solid #a7d7f9;
+  background: white;
+  line-height: 1.6;
+  font-size: 0.875em;
+  border-top: 1px solid #a7d7f9;
+  border-bottom: 1px solid #a7d7f9;
+}
+
+.mainsectionimage {
+  border: 1px solid #c8ccd1;
+  padding: 3px;
+  float: right;
+  background-color: #f8f9fa;
+  font-size: 94%;
+  font-size: 95%;
+  margin: 0 0 5px 15px;
+  text-align: left;
+}
